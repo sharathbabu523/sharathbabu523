@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathbabu523&label=Profile%20views&color=0e75b6&style=flat" alt="sharathbabu523" /> </p>
 
-- 💬 Ask me about **pega,kubernetes,docker,terraform,aws**
+- 💬 Ask me about **pega,kubernetes,docker,terraform,gitlabs,git**
 
 - 📫 How to reach me **sharathbabu523@gmail.com**
 
